@@ -1,4 +1,4 @@
-# CSC_222_Program Olivia ZHou first Program
+# CSC_222_Program Olivia ZHou's first Program
 
 The purpose of this program is to provide a test environment for source control capabilities.  
 This project can be opened using JetBrains IntelliJ
